@@ -1,0 +1,24 @@
+# Homework: Introducción a Javascript
+
+## Instrucciones
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+* Variables:
+Es la manera de guardar un contenido con valor, identificándolo con un nombre, el cual se puede utilizar después recurriendo al nombre asignado. Se pueden construir utilizando los comandos var, let y const.
+* Strings:
+Es un tipo de dato que se encierra entre comillas y que siempre es un formato de texto, es decir que dentro de un string no corren valores matemáticos o fórmulas.
+* Funciones (argumentos, `return`):
+Las funciones son objetos invocables que sirven para procesar variables. Se forman a partir de la palabra function, luego se le asigna un nombre y se completa su estructura abriendo y cerrando paréntisis, luego abriendo y cerrando corchetes.
+Entre los paréntesis van los argumentos que son variables que tendrán un valor cuando la función sea invocada.
+Return devuelve el resultado especificado en el argumento de la función, y no leerá códigos posteriores a return ya que las funciones pueden retornar sólo una vez.
+* Declaraciones `if`:
+Mediante el control de flujo con if se puede aplicar un criterio condicional para la ejecución de diversos códigos.
+* Valores booleanos (`true`, `false`):
+Estos valores se obtienen como resultado de comparaciones, condicionales o no (con if o no), entre expresiones y/o variables.
