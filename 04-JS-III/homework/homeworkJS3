@@ -1,0 +1,5 @@
+ARRAYS:
+El arreglo es una lista de elementos o datos.
+Se definen con brackets y entre ellos se agregan los elementos separados por coma.
+Los datos pueden ser Números, Strings, Null, Undefined, Funciones, Booleanos
+o incluso Arreglos.
