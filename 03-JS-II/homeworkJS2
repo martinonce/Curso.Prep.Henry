@@ -1,0 +1,15 @@
+# Homework: Javascript II
+
+## Instrucciones
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`
+* `&&`, `||`, `!`
+
+* `for`
+El bucle for se utiliza para repetir acciones. Luego de la palabra clave van los paréntesis y las llaves. Dentro de los paréntesis separados por punto y coma, van la variable, la expresión condicional y lo que queremos repetir.
+
+* `&&`, `||`, `!`
+Estos operadores lógicos se utilizan para combinar dos expresiones
+&& significa "y" (and), || significa "o" (or) y ! significa "not" (no).
